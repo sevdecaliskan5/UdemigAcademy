@@ -37,3 +37,6 @@ Transitions: Smooth animation transitions for buttons and images to enhance the 
 
 To get a better understanding of how the website works, check out the screen recording below. It showcases the responsive design, smooth animations, and interactive features of the page in action. Watch the demo to see the project's features in real-time!
 
+![UdemigAcademy-GoogleChrome2024-10-1915-36-08-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4d90c77e-9c3b-4c32-b8c6-1ec5fb0ea43c)
+
+
